@@ -3,8 +3,8 @@ export class User{
     useraddress:string;
     userage:number;
 
-    constructor(username,useraddress,userage){
-       this.username=username;
+    //constructor(username,useraddress,userage){
+    //   this.username=username;
     //     this.useraddress=useraddress;
     //    this.userage=userage;
     // }
